@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning cloud engineering but I do often, from time to time, delve in other topics
 - 👯 I’m looking to collaborate on deep learning projects in computer vision, NLP or finance.
 - 📫 How to reach me: ksfmahed@outlook.com
-- ⚡ Fun fact: Did you know that Jupyter in Python programming is a culminated term comprising of popular languages in Data Science Ju for Julia, Pyt for Python, R ... well for R :)
 
 <!--
 **mahedjaved/mahedjaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
