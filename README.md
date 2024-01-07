@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mahed ...
 
-- 🔭 I’m currently working on improving my skills in data engineering, cloud engineering and machine learning for finance and computer vision.
+- 🔭 I’m currently working on improving my skills in data engineering and cloud engineering.
 - 🌱 I’m currently learning cloud engineering but I do often, from time to time, delve in other topics
 - 👯 I’m looking to collaborate on deep learning projects in computer vision, NLP or finance.
 - 📫 How to reach me: ksfmahed@outlook.com
