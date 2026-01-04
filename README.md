@@ -11,9 +11,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skills in data engineering, cloud engineering and machine learning for finance and computer vision.
-- 🌱 I’m currently learning cloud engineering but I do often, from time to time, delve in other topics
+- 🌱 I’m currently learning cloud engineering but I do oftenly explore topics in 3D computer vision.
 - 👯 I’m looking to collaborate on deep learning projects in computer vision, NLP or finance.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with deployment and monitoring of real-world ML projects
 - 💬 Ask me about ...
 - 📫 How to reach me: ksfmahed@outlook.com
 - 😄 Pronouns: He/him
